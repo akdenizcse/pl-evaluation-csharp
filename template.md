@@ -1,8 +1,3 @@
-ProgLangName
+How to setup, C# OOP, Calculator,version and New features with the all new versions, Specifig things in C# Yusuf Çelik
 
-- History of the language: who/when invented it, which languages influenced it, etc.
-- Why was it invented
-- When/why shall we use it
-- How to setup an environment to use it in different platforms
-- Example codes
-- Things that are specific to this language?
+History C# basics and methods, Why c# invented, Why to Use and Learn C#?,C# examples hospital, java vs C# Mustafa Onur Başer
